@@ -1,0 +1,12 @@
+[package]
+name = "nimotsu_kun"
+version = "0.1.0"
+authors = ["Joseph0304 <joseph0304.drdr@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+console = "0.12.0"
+clap = "2.33.3"
+thiserror = "1.0.20"
